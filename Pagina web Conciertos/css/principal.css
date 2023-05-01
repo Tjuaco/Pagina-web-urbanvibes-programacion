@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+    font-family: sans-serif; 
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.texto-principal {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.imagen {
+    max-width: 200%;
+    height: auto;
+
+}
+.carousel{
+    max-width: 60%;
+    margin: auto;
+}
+.carousel-item{
+    height: auto;
+}
+#segundotexto{
+    text-align: center;
+    margin-top: 5%;
+    margin-block-end: 5%;
+    margin: 10%;
+}
+
+#tercer_texto{
+    text-align: center;
+    margin-top: 5%;
+    margin-block-end: 5%;
+    margin: 10%;
+}
+#formulario{
+    margin-left: 5%;
+}
+.card-group{
+    margin: 5%;
+}
+
